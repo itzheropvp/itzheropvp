@@ -5,6 +5,7 @@
 🎂 Age: 16 Y.O<br>
 🔧 Career: Developer and Student<br>
 📝 Languages: Javascript (Typescript), C++, C#, Lua<br>
+📖 Learning: React <br>
 
 **Contacts**<br>
 🌐 Website: [https://herogamergabby.ml](https://herogamergabby.ml)<br>
