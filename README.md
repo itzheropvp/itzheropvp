@@ -2,7 +2,7 @@
 
 **There are some of my infos that it could help you understand who i am!**<br>
 
-🎂 Age: 16 Y.O<br>
+🎂 Age: 17 Y.O<br>
 🔧 Career: Developer and Student<br>
 📝 Languages: Javascript (Typescript), C++, C#, Lua<br>
 📖 Learning: React <br>
