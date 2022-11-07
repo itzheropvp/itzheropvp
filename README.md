@@ -3,9 +3,13 @@
 **There are some of my infos that it could help you understand who i am!**<br>
 
 🎂 Age: 17 Y.O<br>
-🔧 Career: Developer and Student<br>
-📝 Languages: Javascript (Typescript), C++, C#, Lua<br>
-📖 Learning: React <br>
+🌍 Nationality: Italy
+🔧 Career: Student and Developer<br>
+📝 Languages: HTML, CSS, Javascript, C++, C#, Lua<br>
+📖 Learning: None <br>
+
+Certificates & More:
+English **B1**
 
 **Contacts**<br>
 🌐 Website: [https://herogamergabby.ml](https://herogamergabby.ml)<br>
