@@ -14,11 +14,10 @@
 - English **B1**
 
 ### **Contacts:**<br>
-- 🌐 Website: [https://herogamergabby.ml](https://herogamergabby.ml)<br> (Need to do)
-- 🌐 Discord: [https://discord.gg/jeCQYJgk6V](https://discord.gg/jeCQYJgk6V)<br>
-
-**If you want buy me some coffee**<br>
-<a href="https://www.buymeacoffee.com/FilippoHero" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+- 🌐 My Studio's (ROBLOX): [Hero Studio's](https://discord.gg/bhupYVSkyA)<br>
+- 🌐 Roblox Profile: [HeroGamerGabby](https://www.roblox.com/users/113701447/profile)<br>
+- 🌐 Discord Tag: HeroGamerGabby#0888<br>
+- 🌐 Twitter: [Hero_Dev_](https://twitter.com/Hero_Dev_)<br>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=itzheropvp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/itzheropvp)
 [![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzheropvp&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/itzheropvp)
