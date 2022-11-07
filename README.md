@@ -11,7 +11,7 @@
 - 📖 Learning: None <br>
 
 ### Certificates & More: <br>
-English **B1**
+- English **B1**
 
 ### **Contacts:**<br>
 - 🌐 Website: [https://herogamergabby.ml](https://herogamergabby.ml)<br> (Need to do)
