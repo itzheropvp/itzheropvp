@@ -4,20 +4,20 @@
 
 ### Informations:
 
-- 🎂 Age: 17 Y.O<br>
-- 🌍 Nationality: Italy<br>
-- 🔧 Career: Student and Developer<br>
-- 📝 Languages: HTML, CSS, JavaScript, C#, Lua, Python<br>
-- 📖 Learning: C++ <br>
+<code>🎂 Age: 17 Y.O</code><br>
+<code>🌍 Nationality: Italy</code></br>
+<code>🔧 Career: Student and Developer</code><br>
+<code>📝 Languages: HTML, CSS, Javascript, C#, Lua</code><br>
+<code>📖 Learning: C++</code> <br>
 
 ### Certificates & More: <br>
-- English **B1**
+<code>English **B1**</code>
 
 ### **Contacts:**<br>
-- 🌐 My Studio's (ROBLOX): [Hero Studio's](https://discord.gg/bhupYVSkyA)<br>
-- 🌐 Roblox Profile: [HeroGamerGabby](https://www.roblox.com/users/113701447/profile)<br>
-- 🌐 Discord Tag: HeroGamerGabby#0888<br>
-- 🌐 Twitter: [Hero_Dev_](https://twitter.com/Hero_Dev_)<br>
+<code>🌐 My Studio's (ROBLOX): [Hero Studio's](https://discord.gg/bhupYVSkyA)</code><br>
+<code>🌐 Roblox Profile: [HeroGamerGabby](https://www.roblox.com/users/113701447/profile)</code><br>
+<code>🌐 Discord Tag: HeroGamerGabby#0888</code><br>
+<code>🌐 Twitter: [Hero_Dev_](https://twitter.com/Hero_Dev_)</code><br>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=itzheropvp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/itzheropvp)
 [![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzheropvp&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/itzheropvp)
