@@ -5,9 +5,9 @@
 ### Informations:
 
 - 🎂 Age: 17 Y.O<br>
-- 🌍 Nationality: Italy
+- 🌍 Nationality: Italy<br>
 - 🔧 Career: Student and Developer<br>
-- 📝 Languages: HTML, CSS, Javascript, C#, Lua<br>
+- 📝 Languages: HTML, CSS, JavaScript, C#, Lua, Python<br>
 - 📖 Learning: C++ <br>
 
 ### Certificates & More: <br>
