@@ -4,7 +4,7 @@
 
 ### Informations:
 
-<code>🎂 Age: 17 Y.O</code><br>
+<code>🎂 Age: 18 Y.O</code><br>
 <code>🌍 Nationality: Italy</code></br>
 <code>🔧 Career: Student and Developer</code><br>
 <code>📝 Languages: HTML, CSS, Javascript, C#, Lua</code><br>
