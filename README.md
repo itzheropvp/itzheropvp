@@ -15,7 +15,7 @@
 <code>English **B1**</code>
 
 ### **Contacts:**<br>
-<code>🌐 My Studio's (ROBLOX): [Hero Studio's](https://discord.gg/MZGUYPhTVS)</code><br>
+<code>🌐 My Studios (ROBLOX): [Hero Studios](https://discord.gg/MZGUYPhTVS)</code><br>
 <code>🌐 Roblox Profile: [HeroGamerGabby](https://www.roblox.com/users/113701447/profile)</code><br>
 <code>🌐 Discord Tag: HeroGamerGabby</code><br>
 <code>🌐 Twitter: [Hero_Dev_](https://twitter.com/Hero_Dev_)</code><br>
