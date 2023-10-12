@@ -15,9 +15,9 @@
 <code>English **B1**</code>
 
 ### **Contacts:**<br>
-<code>🌐 My Studio's (ROBLOX): [Hero Studio's](https://discord.gg/bhupYVSkyA)</code><br>
+<code>🌐 My Studio's (ROBLOX): [Hero Studio's](https://discord.gg/MZGUYPhTVS)</code><br>
 <code>🌐 Roblox Profile: [HeroGamerGabby](https://www.roblox.com/users/113701447/profile)</code><br>
-<code>🌐 Discord Tag: HeroGamerGabby#0888</code><br>
+<code>🌐 Discord Tag: HeroGamerGabby</code><br>
 <code>🌐 Twitter: [Hero_Dev_](https://twitter.com/Hero_Dev_)</code><br>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=itzheropvp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/itzheropvp)
