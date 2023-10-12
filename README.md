@@ -8,6 +8,7 @@
 <code>🌍 Nationality: Italy</code></br>
 <code>🔧 Career: Student and Developer</code><br>
 <code>📝 Languages: HTML, CSS, Javascript, C#, Lua</code><br>
+<code>🔧 Frameworks: NextJS, ReactJS</code><br>
 <code>📖 Learning: C++</code> <br>
 
 ### Certificates & More: <br>
