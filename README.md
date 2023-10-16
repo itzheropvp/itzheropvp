@@ -9,7 +9,7 @@
 <code>🔧 Career: Student and Developer</code><br>
 <code>📝 Languages: HTML, CSS, Javascript, C#, Lua</code><br>
 <code>🔧 Frameworks: NextJS, ReactJS</code><br>
-<code>📖 Learning: C++</code> <br>
+<code>📖 Learning: Rust, C++</code> <br>
 
 ### Certificates & More: <br>
 <code>English **B1**</code>
