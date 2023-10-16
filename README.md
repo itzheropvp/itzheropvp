@@ -7,8 +7,8 @@
 <code>🎂 Age: 18 Y.O</code><br>
 <code>🌍 Nationality: Italy</code></br>
 <code>🔧 Career: Student and Developer</code><br>
-<code>📝 Languages: HTML, CSS, Javascript, C#, Lua</code><br>
-<code>🔧 Frameworks: NextJS, ReactJS</code><br>
+<code>📝 Languages: HTML, CSS, Javascript, Typescript, C#, Lua</code><br>
+<code>🔧 Frameworks: NextJS, React</code><br>
 <code>📖 Learning: Rust, C++</code> <br>
 
 ### Certificates & More: <br>
