@@ -4,10 +4,10 @@
 
 ## About Me~
 
-- 🎂 Age: 19 Y.O
+- 🎂 Age: 20 Y.O
 - 🌍 Nationality: Italy
 - 🔧 Career: Student and Developer
-- 📝 Languages: HTML, CSS, Javascript, Typescript, C#, Lua, Python
+- 📝 Languages: HTML, CSS, Javascript, Typescript, C#, Lua, Python, C++
 - 🔧 Frameworks: NextJS, React, Bootstrap
   
 ## Certificates & More
