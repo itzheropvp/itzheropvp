@@ -8,7 +8,7 @@
 - 🌍 Nationality: Italy
 - 🔧 Career: Student and Developer
 - 📝 Languages: HTML, CSS, Javascript, Typescript, C#, Lua, Python, C++
-- 🔧 Frameworks: NextJS, React, Bootstrap
+- 🔧 Frameworks: NextJS, React, Bootstrap, Angular
   
 ## Certificates & More
 📝 **Certified CISCO Network Academy**
