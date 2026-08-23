@@ -6,14 +6,15 @@
 
 - 🎂 Age: 20 Y.O
 - 🌍 Nationality: Italy
-- 🔧 Career: Student and Developer
-- 📝 Languages: HTML, CSS, Javascript, Typescript, C#, Lua, Python, C++
+- 🔧 Career: Web & Game Developer
+- 📝 Languages: HTML, CSS, Javascript, Typescript, C#, Lua, LuaU, Python, C++, Go
 - 🔧 Frameworks: NextJS, React, Bootstrap, Angular
   
 ## Certificates & More
 📝 **Certified CISCO Network Academy**
 - IT Essential
-  
+- CCNA: Introduction to Networks
+
 ## Contacts~
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/herogamergabby)
