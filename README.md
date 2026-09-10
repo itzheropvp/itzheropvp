@@ -4,11 +4,12 @@
 
 ## About Me~
 
-- 🎂 Age: 20 Y.O
+- 🎂 Age: 21 Y.O
 - 🌍 Nationality: Italy
 - 🔧 Career: Web & Game Developer
-- 📝 Languages: HTML, CSS, Javascript, Typescript, C#, Lua, LuaU, Python, C++, Go
+- 📝 Languages: HTML, CSS, Javascript, Typescript, C#, Lua, LuaU, Python, C++, Go, Kotlin
 - 🔧 Frameworks: NextJS, React, Bootstrap, Angular
+- Learning Swift...
   
 ## Certificates & More
 📝 **Certified CISCO Network Academy**
