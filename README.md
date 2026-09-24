@@ -20,6 +20,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/herogamergabby)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ZephyrVerrater)
+[![Roblox](https://img.shields.io/badge/Roblox?style=for-the-badge&logo=roblox&logoColor=white)]([https://www.roblox.com/users/113701447/profile](https://www.roblox.com/users/113701447/profile))
 
 ## Github Stats~
 <div align="center">
